@@ -1,7 +1,7 @@
 ```markdown
 <!--
   PASTEL PINK & LAVENDER GITHUB PROFILE
-  1. Replace YOUR_USERNAME with your GitHub username.
+  1. Replace akyly with your GitHub username.
   2. Replace the sample project links with your actual repositories.
   3. Customize the text to match your personality!
 -->
@@ -18,7 +18,7 @@
 <!-- ✿ TYPING INTRODUCTION ✿ -->
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=hi%2C+I'm+YOUR_USERNAME+%E2%99%A1;IT+Student+%F0%9F%8E%80;Aspiring+UI%2FUX+Designer+%E2%9C%A8;Web+Development+Enthusiast+%F0%9F%92%BB;turning+ideas+into+digital+experiences+%E2%99%A1"
+    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=hi%2C+I'm+akyly+%E2%99%A1;IT+Student+%F0%9F%8E%80;Aspiring+UI%2FUX+Designer+%E2%9C%A8;Web+Development+Enthusiast+%F0%9F%92%BB;turning+ideas+into+digital+experiences+%E2%99%A1"
     alt="Animated typing introduction"
   />
 </h3>
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/akyly">
     <img src="https://img.shields.io/badge/GitHub-visit%20my%20profile-CDB4DB?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
   <img src="https://img.shields.io/badge/made%20with-curiosity-FFC6E5?style=flat-square" alt="Made with curiosity"/>
@@ -39,7 +39,7 @@
 
 ## 🌷 about me
 
-hello! i'm **YOUR_USERNAME** ♡
+hello! i'm **akyly** ♡
 
 i'm an information technology student who enjoys combining creativity and technology to create meaningful digital experiences.
 
@@ -93,7 +93,7 @@ i'm an information technology student who enjoys combining creativity and techno
     <td width="50%">
       <h3 align="center">🎓 Project One</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
+        <a href="https://github.com/akyly/akyly">
           <img src="https://img.shields.io/badge/view%20project-lavender-CDB4DB?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
         </a>
       </p>
@@ -105,7 +105,7 @@ i'm an information technology student who enjoys combining creativity and techno
     <td width="50%">
       <h3 align="center">🎨 Project Two</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+        <a href="https://github.com/akyly/akyly">
           <img src="https://img.shields.io/badge/view%20project-pink-FFC6E5?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
         </a>
       </p>
@@ -118,7 +118,7 @@ i'm an information technology student who enjoys combining creativity and techno
 </table>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/akyly?tab=repositories">
     <img src="https://img.shields.io/badge/explore%20all%20repositories-E7C6F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
   </a>
 </p>
@@ -129,12 +129,12 @@ i'm an information technology student who enjoys combining creativity and techno
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=7C668B&icon_color=F4A7CC&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=akyly&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=7C668B&icon_color=F4A7CC&rank_icon=github"
     height="165"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=7C668B"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyly&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=7C668B"
     height="165"
     alt="Most used programming languages"
   />
@@ -142,7 +142,7 @@ i'm an information technology student who enjoys combining creativity and techno
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FFF7FC&ring=C084FC&fire=F4A7CC&currStreakLabel=C084FC&sideLabels=7C668B&currStreakNum=7C668B&sideNums=7C668B&dates=B49AC6"
+    src="https://streak-stats.demolab.com?user=akyly&hide_border=true&background=FFF7FC&ring=C084FC&fire=F4A7CC&currStreakLabel=C084FC&sideLabels=7C668B&currStreakNum=7C668B&sideNums=7C668B&dates=B49AC6"
     width="70%"
     alt="GitHub contribution streak"
   />
@@ -157,14 +157,8 @@ i'm an information technology student who enjoys combining creativity and techno
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/akyly">
     <img src="https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-FFC6E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-E7C6F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
